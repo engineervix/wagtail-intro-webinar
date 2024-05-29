@@ -3,12 +3,12 @@
 theme: seriph
 background: /images/title-image.svg
 # some information about your slides, markdown enabled
-title: Markdown-Powered Emails in Django
+title: Introduction to Wagtail
 info: |
-  ## Markdown-Powered Emails in Django
-  Write in Markdown, style with custom CSS, and inline the CSS with premailer.
+  ## Introduction to Wagtail
+  These are slides used for a webinar that took place on 2024-05-30
 
-  [Blog post](https://blog.victor.co.zm/markdown-powered-emails-in-django)
+  [Wagtail](https://wagtail.org/)
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 # https://sli.dev/guide/drawing
@@ -21,8 +21,7 @@ mdc: true
 ---
 
 <div class="mb-60">
-  <h1>Markdown-Powered Emails in Django</h1>
-  <!-- Write in Markdown, style with custom CSS, and inline the CSS with premailer. -->
+  <h1>Introduction to Wagtail</h1>
 </div>
 
 ---
@@ -31,14 +30,13 @@ image: https://media1.tenor.com/m/dTP4cRnO9bEAAAAC/sweating-nervous.gif
 transition: fade-out
 ---
 
-# HTML Emails are hard
+# Heading ...
 
 <v-clicks>
 
-- it's not just the same as designing layouts for a web page
-- **Inconsistent Rendering**
-- **Limited CSS Support**
-- that's why we often just send plain text emails
+- item
+- item
+- item
 </v-clicks>
 
 ---
@@ -50,4 +48,4 @@ url: https://mjml.io/
 layout: center
 ---
 
-# A simpler approach ...
+# Heading ...
