@@ -204,7 +204,6 @@ hideInToc: true
 ---
 
 # i18n & l10n
-hideInToc: true
 
 ---
 layout: fact
