@@ -58,7 +58,7 @@ transition: fade
 ---
 layout: image-left
 hideInToc: true
-image: https://source.unsplash.com/fqbGGMpKLwc/1080x1920
+image: /images/fqbGGMpKLwc-unsplash.jpg
 ---
 
 # Outline
@@ -67,7 +67,7 @@ image: https://source.unsplash.com/fqbGGMpKLwc/1080x1920
 
 ---
 layout: image-right
-image: https://source.unsplash.com/2X3NUv-J3GA/1080x1920
+image: /images/2X3NUv-J3GA-unsplash.jpg
 transition: fade-out
 ---
 
@@ -88,7 +88,7 @@ backgroundSize: contain
 
 ---
 layout: image-right
-image: https://source.unsplash.com/3V8xo5Gbusk/1920x1080
+image: /images/3V8xo5Gbusk-unsplash.jpg
 transition: fade-out
 ---
 
@@ -105,7 +105,7 @@ transition: fade-out
 
 ---
 layout: image-left
-image: https://source.unsplash.com/ddkVgbN94GM/1080x1920
+image: /images/ddkVgbN94GM-unsplash.jpg
 transition: fade-out
 ---
 
@@ -128,7 +128,7 @@ layout: fact
 
 ---
 layout: image-left
-image: https://source.unsplash.com/ieic5Tq8YMk/1080x1920
+image: /images/ieic5Tq8YMk-unsplash.jpg
 transition: fade-out
 hideInToc: true
 ---
@@ -146,7 +146,7 @@ hideInToc: true
 
 ---
 layout: image-right
-image: https://source.unsplash.com/R52YghRa_Ik/1080x1920
+image: /images/R52YghRa_Ik-unsplash.jpg
 transition: fade-out
 hideInToc: true
 ---
@@ -221,7 +221,7 @@ hideInToc: true
 
 ---
 layout: image-left
-image: https://source.unsplash.com/49uySSA678U/1080x1920
+image: /images/49uySSA678U-unsplash.jpg
 transition: fade-out
 ---
 
@@ -235,7 +235,7 @@ layout: fact
 
 ---
 layout: image
-image: https://source.unsplash.com/SxQkvBfajHc/1920x1080
+image: /images/SxQkvBfajHc-unsplash.jpg
 transition: fade-out
 backgroundSize: contain
 ---
